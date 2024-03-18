@@ -15,8 +15,18 @@ const learningNotes = [
   },
 
   {
-    date: "2024-03-14",
+    date: "2024-03-15",
+    tags: [ "ternary", "rest parameter", "spread operator", "short circuit", "switch statements", "constructors"],
+    comment: "This morning I worked on js exercises utilizing ternary operator, rest parameter, short circuiting, switch statement, and started to build constructors "
+  },
+  {
+    date: "2024-03-15",
     tags: [ ],
     comment: ""
-  }
+  },
+  {
+    date: "2024-03-15",
+    tags: [ ],
+    comment: ""
+  },
 ];
