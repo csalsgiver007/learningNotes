@@ -20,6 +20,21 @@ const learningNotes = [
     comment: "This morning I worked on js exercises utilizing ternary operator, rest parameter, short circuiting, switch statement, and started to build constructors "
   },
   {
+    date: "2024-03-18",
+    tags: ["constructor", "this keyword" ],
+    comment: "This morning I practiced more with constructors and the .this keyword"
+  },
+  {
+    date: "2024-03-15",
+    tags: [ ],
+    comment: ""
+  },
+  {
+    date: "2024-03-15",
+    tags: [ ],
+    comment: ""
+  },
+  {
     date: "2024-03-15",
     tags: [ ],
     comment: ""
