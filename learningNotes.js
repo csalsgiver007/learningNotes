@@ -47,12 +47,12 @@ const learningNotes = [
 
   },
   {
-    date: "2024-03-15",
-    tags: [ ],
-    comment: "",
+    date: "2024-03-20",
+    tags: ["data set attributes", "css", "copy array" ],
+    comment: "I had a hell of a time this morning getting the remove function of my cart to work. I finally realized that the cartId I was trying to include in items added to my cart array was actually changing the original menu array values and I was some how getting items with the same cartID in my array. I got around this by making a copy of the original object and assigning my id to the copy not the original object in the array, before pushing it to my new cart array. This is the code i used, let addedItem = Object.assign({}, item);..... I spent the rest of my time this morning jacking around with css. I really am annoyed with css because I'm not quick with it yet, but I'm trying to get this project to match the design perfectly. I want to be able to just throw css on elements and have them work the first time instead of playing with it so long.",
     liveUrl: "",
-    repo: "",
-    designFile:"",
+    repo: "https://github.com/csalsgiver007/restaurantOrderingApp",
+    designFile:"https://www.figma.com/file/Hdgwo69Dym9vVsxbuPbl0h/Mobile-Restaurant-Menu?type=design&node-id=0-1&mode=design&t=aAhmX1JIeL5BX4ms-0",
     image:"",
   },
   {
