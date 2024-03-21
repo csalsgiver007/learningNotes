@@ -1,13 +1,21 @@
 /*This file contains a daily summmary of topics or subjects I practiced while learning.
 I originally decided to try to codeup an app as a hobby for my wife and I to use for meal planning. At the time I knew nothing 
 aboout programing. I thought programming was boring solo work for introverts who just sit in front of a computer 
-by themselves with headphones on. I had no idea how much I could enjoy it. Each piece of logic is a little mind puzzle. I've learned that programming is quite social and team oriented,
-which is cool to me. I'm now looking for some projects to collaborate and contribute to on github, not only 
+by themselves with headphones on. I had no idea how much I could enjoy it.  I've learned that programming is quite social and team oriented, which is cool to me. I'm now looking for some projects to collaborate and contribute to on github, not only 
 to enrich my skills but to be part of a community to help and learn from others  
 
 */
 
 const learningNotes = [
+  {
+    date: "2024-03-13",
+    tags: [ ],
+    comment: "When I started to learn programming I began with learning Python and Django so I could work on building out a meal planning web app for my wife and I to use. When I finally got to where I could buildout a simple backend with database I realized that I'm not that good at making thing look nice on the front end. I'm taking a few months to practice using front-end technologies. Then I'm going to get back into the database and serverside frameworks. I built a website for my wife's home based business but I had to use a template to make it. Eventually I'm going to rewrite all aof this code, html, JS, and CSS, so I can costumize it the way we like it.",
+    liveUrl: "",
+    repo: "",
+    designFile:"",
+    image:"",
+  },
   {
     date: "2024-03-14",
     tags: ["arrays", "objects", "js"," .join", ".map", "forEach", ".map" ],
