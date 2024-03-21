@@ -56,12 +56,12 @@ const learningNotes = [
     image:"",
   },
   {
-    date: "2024-03-15",
-    tags: [ ],
+    date: "2024-03-21",
+    tags: ["css", "flexbox", "flex-grow" ],
     comment: "",
-    liveUrl: "",
-    repo: "",
-    designFile:"",
+    liveUrl: "Spent my early morning coding practice on building out the 'check out' and 'payment' modals for this restaurant ordering exercise. Again, getting myself really annoyed with css. I'm glad to have the modals and page layout pretty much completed now so I can get back into practicing some logic with JS instead of just fooling around with the layout. I'm hoping to wrap this exercise up by the end of week so I can move into my next topic of study. However that looks to be responsive design, so I'll be back messing around with css again.",
+    repo: "https://github.com/csalsgiver007/restaurantOrderingApp",
+    designFile:"https://www.figma.com/file/Hdgwo69Dym9vVsxbuPbl0h/Mobile-Restaurant-Menu?type=design&node-id=0-1&mode=design&t=aAhmX1JIeL5BX4ms-0",
     image:"",
   },
   {
