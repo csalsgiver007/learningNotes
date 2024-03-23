@@ -82,9 +82,9 @@ const learningNotes = [
     images:["./images/orderApp01.png", "./images/orderApp02.png", "./images/orderApp03.png"],
   },
   {
-    date: "2024-03-21",
-    tags: [ ],
-    comment: "",
+    date: "2024-03-23",
+    tags: [ "responsive design", "media queries"],
+    comment: "worked on exercises adjusting display for multiple screen sizes, focusing on mobile first design",
     liveUrl: "",
     repo: "",
     designFile:"",
