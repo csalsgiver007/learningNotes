@@ -99,7 +99,7 @@ const learningNotes = [
     designFile:"",
     images: [],
   },  {
-    date: "2024-03-2",
+    date: "2024-03-26",
     tags: [ flexbox],
     comment: "This morning I worked on more practice of css flexbox",
     liveUrl: "",
@@ -108,10 +108,10 @@ const learningNotes = [
     images: [],
   },
   {
-    date: "2024-03-21",
-    tags: [ ],
-    comment: "",
-    liveUrl: "",
+    date: "2024-03-27",
+    tags: [ "css-grid" ],
+    comment: " Worked on Scrimba css grid tutorial. Practiced exercises on the css-grid, using a site called codingfantasy.com. Finished 28 of 80 levels",
+    liveUrl: "https://codingfantasy.com/",
     repo: "",
     designFile:"",
     images: [],
