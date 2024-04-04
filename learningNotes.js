@@ -8,6 +8,7 @@ to enrich my skills but to be part of a community to help and learn from others
 
 const learningNotes = [
   {
+    uuid: "9654a534-7d5d-4590-9ce7-ea088ede0d28",
     date: "2024-03-13",
     tags: [],
     comment:
@@ -18,6 +19,7 @@ const learningNotes = [
     images: [],
   },
   {
+    uuid: "e1853763-ab78-45fc-88dd-6422be0f14e4",
     date: "2024-03-14",
     tags: ["arrays", "objects", "js", " .join", ".map", "forEach", ".map"],
     comment:
@@ -29,6 +31,7 @@ const learningNotes = [
   },
 
   {
+    uuid: "561d9b54-e94f-41a5-a706-0e4c28356b93",
     date: "2024-03-15",
     tags: [
       "ternary",
@@ -46,6 +49,7 @@ const learningNotes = [
     images: [],
   },
   {
+    uuid: "22c05c9a-3f71-40bd-bbad-5bd3d6c0580a",
     date: "2024-03-18",
     tags: ["constructor", "this keyword"],
     comment:
@@ -56,6 +60,7 @@ const learningNotes = [
     images: [],
   },
   {
+    uuid: "cac6a992-9589-4956-93f7-4c4363b1bc1e",
     date: "2024-03-19",
     tags: [".map", "data-sets", ".join", ""],
     comment:
@@ -67,6 +72,7 @@ const learningNotes = [
     images: [],
   },
   {
+    uuid: "8b8376d2-92db-4e4e-ae4b-0546111e09c5",
     date: "2024-03-20",
     tags: ["data set attributes", "css", "copy array"],
     comment:
@@ -78,6 +84,7 @@ const learningNotes = [
     images: [],
   },
   {
+    uuid: "377da39a-7e53-4abd-889b-2bfc0be9e6bf",
     date: "2024-03-21",
     tags: ["css", "flexbox", "flex-grow"],
     comment:
@@ -89,6 +96,7 @@ const learningNotes = [
     images: [],
   },
   {
+    uuid: "f694ce3b-adc9-4d84-8cb1-87516d4e4d44",
     date: "2024-03-22",
     tags: ["cart", "JavaScript", "CSS"],
     comment:
@@ -104,6 +112,7 @@ const learningNotes = [
     ],
   },
   {
+    uuid: "f4919448-749a-431e-8506-e82eafae69a8",
     date: "2024-03-23",
     tags: ["responsive design", "media queries"],
     comment:
@@ -114,6 +123,7 @@ const learningNotes = [
     images: [],
   },
   {
+    uuid: "ed4b9c00-d493-42d7-b1b6-b3b5ab0767d1",
     date: "2024-03-25",
     tags: ["flex-wrap", "flex-grow", "flex-basis"],
     comment: "Practiced formatting an exercise using flexbox properties",
@@ -123,6 +133,7 @@ const learningNotes = [
     images: [],
   },
   {
+    uuid: "3ebfa1a6-5e49-410a-9c2b-524a01b3a20a",
     date: "2024-03-26",
     tags: [flexbox],
     comment: "This morning I worked on more practice of css flexbox",
@@ -132,6 +143,7 @@ const learningNotes = [
     images: [],
   },
   {
+    uuid: "8bc9c709-3531-4a95-8cc4-02fc347e6f03",
     date: "2024-03-27",
     tags: ["css-grid"],
     comment:
@@ -142,6 +154,7 @@ const learningNotes = [
     images: [],
   },
   {
+    uuid: "94aa866f-4c80-4716-bf5a-76cb5be8e5e1",
     date: "2024-03-30",
     tags: ["css grid", "responsive design"],
     comment:
@@ -153,6 +166,7 @@ const learningNotes = [
     images: [],
   },
   {
+    uuid: "6bcae0ad-b6bd-4d6d-8fde-82f24087bf5c",
     date: "2024-04-01",
     tags: ["scrimba", "mobile-first", "css-grid", "flexbox"],
     comment:
@@ -164,6 +178,7 @@ const learningNotes = [
     images: [],
   },
   {
+    uuid: "945563ad-8f6c-4b87-bc63-51110c51f5e7",
     date: "2024-04-03",
     tags: ["api", "fetch"],
     comment:
@@ -174,6 +189,7 @@ const learningNotes = [
     images: [],
   },
   {
+    uuid: "db652ac3-5128-424a-8602-c8ed898c81b4",
     date: "2024-03-27",
     tags: [""],
     comment: "",
@@ -183,6 +199,7 @@ const learningNotes = [
     images: [],
   },
   {
+    uuid: "",
     date: "2024-03-27",
     tags: [""],
     comment: "",
