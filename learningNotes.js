@@ -190,11 +190,12 @@ const learningNotes = [
   },
   {
     uuid: "db652ac3-5128-424a-8602-c8ed898c81b4",
-    date: "2024-03-27",
-    tags: [""],
-    comment: "",
-    liveUrl: "",
-    repo: "",
+    date: "2024-04--10",
+    tags: ["css", "js", "responsive design", "flexbox", "css grid"],
+    comment:
+      "I've been working on rewriting Rachels website, from sratch without using the template so I can make changes to it easier in the future. I'm employing flexbox and css grid to make it responsive and building it out using a mobile first approach The site has an intro, products, events, news, and contacts pages. These pages will eventually be home to dynamic data which will pull through server side rendering with Django and postgres database. I intend to use the Django inbuilt CMS so Rachel can update the site herself. I've so far included a litte JS event listeners for rendering and closing the sections",
+    liveUrl: "https://ephemeral-nougat-6f4a0a.netlify.app/",
+    repo: "https://github.com/csalsgiver007/AAnaturtalsRewrite",
     designFile: "",
     images: [],
   },
