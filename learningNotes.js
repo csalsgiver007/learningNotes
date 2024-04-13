@@ -200,10 +200,11 @@ const learningNotes = [
     images: [],
   },
   {
-    uuid: "",
-    date: "2024-03-27",
-    tags: [""],
-    comment: "",
+    uuid: "1411b1a5-e76c-48c8-868f-7dbe2ad32a41",
+    date: "2024-04-12",
+    tags: ["api", "fetch", "geolocation API"],
+    comment:
+      "This morning I worked on a project to fetch data from openweather api and display the weather data in the dom. I used the geolocation api to retrieve the current location and pass the long and lat to the open weather api.",
     liveUrl: "",
     repo: "",
     designFile: "",
