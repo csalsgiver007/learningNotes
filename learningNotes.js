@@ -215,7 +215,7 @@ const learningNotes = [
     date: "2024-04-17",
     tags: ["django", "cloudflare r2"],
     comment:
-   "Ive been making good progress this week converting the html site to django for Rachels Website. The weeks I've been working on html, css, and js I have not touched python or django. It is taking me a littlebit to remeber some of the aspects of django, but I've nearly gotten the entire site built out now and we can use the admin panel to add updates to it. It still needs to be restyled for larger screens, but I figured making it mobile friendly is important since most people use their phone first nowadays. Ive not yet pushed it to github, because i forget to get the secret keys and stuff out of it first. I want to make sure it's good to go befor commiting it. Oh, something cool I did yesterday was hook it up to Cloudflare R2 for hosting media files"
+      "Ive been making good progress this week converting the html site to django for Rachels Website. The weeks I've been working on html, css, and js I have not touched python or django. It is taking me a littlebit to remeber some of the aspects of django, but I've nearly gotten the entire site built out now and we can use the admin panel to add updates to it. It still needs to be restyled for larger screens, but I figured making it mobile friendly is important since most people use their phone first nowadays. Ive not yet pushed it to github, because i forget to get the secret keys and stuff out of it first. I want to make sure it's good to go befor commiting it. Oh, something cool I did yesterday was hook it up to Cloudflare R2 for hosting media files",
     liveUrl: "",
     repo: "",
     designFile: "",
