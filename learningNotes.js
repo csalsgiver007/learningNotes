@@ -1,6 +1,6 @@
-/*This file contains a daily summmary of topics or subjects I practiced while learning.
-I originally decided to try to codeup an app as a hobby for my wife and I to use for meal planning. At the time I knew nothing 
-aboout programing. I thought programming was boring solo work for introverts who just sit in front of a computer 
+/*This file contains a daily summary of topics or subjects I practiced while learning.
+I originally decided to try to code up an app as a hobby for my wife and I to use for meal planning. At the time I knew nothing 
+about programming. I thought programming was boring solo work for introverts who just sit in front of a computer 
 by themselves with headphones on. I had no idea how much I could enjoy it.  I've learned that programming is quite social and team oriented, which is cool to me. I'm now looking for some projects to collaborate and contribute to on github, not only 
 to enrich my skills but to be part of a community to help and learn from others  
 
@@ -12,7 +12,7 @@ const learningNotes = [
     date: "2024-03-13",
     tags: [],
     comment:
-      "When I started to learn programming I began with learning Python and Django so I could work on building out a meal planning web app for my wife and I to use. When I finally got to where I could buildout a simple backend with database I realized that I'm not that good at making thing look nice on the front end. I'm taking a few months to practice using front-end technologies. Then I'm going to get back into the database and serverside frameworks. I built a website for my wife's home based business but I had to use a template to make it. Eventually I'm going to rewrite all aof this code, html, JS, and CSS, so I can costumize it the way we like it.",
+      "When I started to learn programming I began with learning Python and Django so I could work on building out a meal planning web app for my wife and I to use. When I finally got to where I could build out a simple backend with database I realized that I'm not that good at making thing look nice on the front end. I'm taking a few months to practice using front-end technologies. Then I'm going to get back into the database and server side frameworks. I built a website for my wife's home based business but I had to use a template to make it. Eventually I'm going to rewrite all aof this code, html, JS, and CSS, so I can customize it the way we like it.",
     liveUrl: "",
     repo: "",
     designFile: "",
@@ -23,7 +23,7 @@ const learningNotes = [
     date: "2024-03-14",
     tags: ["arrays", "objects", "js", " .join", ".map", "forEach", ".map"],
     comment:
-      " Today I worked on a fairly challenging exercise where as I needed to import data int he form of an object array that held real estate data and render it to the dom in the form of div cards. The exercse was designed for me to use  the folowwing JS : import/export, .map(), .join(), Object destructuring,  .reduce(),  Default parameters. I found it a little challenging becuase I had to itterate an array of js objects to build the html, but the default parameter passed when there was not an array of objects was a single object. I built a function that renders the html string from an object. So for the array to work I had to itterate that array on each object. I used the .map method and the .join method to join all the arrays generated from the .map nethod into a single array",
+      " Today I worked on a fairly challenging exercise where as I needed to import data int he form of an object array that held real estate data and render it to the dom in the form of div cards. The exercise was designed for me to use  the following JS : import/export, .map(), .join(), Object destructuring,  .reduce(),  Default parameters. I found it a little challenging because I had to iterate an array of js objects to build the html, but the default parameter passed when there was not an array of objects was a single object. I built a function that renders the html string from an object. So for the array to work I had to iterate that array on each object. I used the .map method and the .join method to join all the arrays generated from the .map method into a single array",
     liveUrl: "",
     repo: "",
     designFile: "",
@@ -158,7 +158,7 @@ const learningNotes = [
     date: "2024-03-30",
     tags: ["css grid", "responsive design"],
     comment:
-      "Started the module 6 solo project on Scrimba. It involves building a fully responsive blog of a learning journal. I intend to use flexbox, cssgrid, and probably media queries. I am going to attempt to build it to specs in the design file. Afterwards I could probably use it to post the notes I'vebeen putting in this object array",
+      "Started the module 6 solo project on Scrimba. It involves building a fully responsive blog of a learning journal. I intend to use flexbox, css grid, and probably media queries. I am going to attempt to build it to specs in the design file. Afterwards I could probably use it to post the notes I've been putting in this object array",
     liveUrl: "https://steady-begonia-a2480f.netlify.app/",
     repo: "https://github.com/csalsgiver007/learningJournal",
     designFile:
@@ -170,7 +170,7 @@ const learningNotes = [
     date: "2024-04-01",
     tags: ["scrimba", "mobile-first", "css-grid", "flexbox"],
     comment:
-      "Got up late today and was'nt able to get anything done on my learning journal project. However I did get a lot accomplished after work this evening. I had been struggling trying to get an image to span my grid without it overflowing. I changed it to a background image for the grid instead and it worked out. This was not my first choice for this method, because the background image is supposedly less effective for accessibility. I may come back and revisit this at another time, but it was holding me back with the res of the project trying to get it to work by spanning. I've prettymuch finished the index page for mobile. Tommorow I may work on the media queries for desktop. I see the project only requires desktop and 400px mobile, but I may add a breakpoint for tablet. I just deployed what I have so far to netlify and it looks pretty nice on my Samsung Galaxy. Did I mention how cool Netlify is? It's  awesome that I can just link it to my github and throw stuff up there. ",
+      "Got up late today and was'nt able to get anything done on my learning journal project. However I did get a lot accomplished after work this evening. I had been struggling trying to get an image to span my grid without it overflowing. I changed it to a background image for the grid instead and it worked out. This was not my first choice for this method, because the background image is supposedly less effective for accessibility. I may come back and revisit this at another time, but it was holding me back with the res of the project trying to get it to work by spanning. I've pretty much finished the index page for mobile. Tomorrow I may work on the media queries for desktop. I see the project only requires desktop and 400px mobile, but I may add a breakpoint for tablet. I just deployed what I have so far to netlify and it looks pretty nice on my Samsung Galaxy. Did I mention how cool Netlify is? It's  awesome that I can just link it to my github and throw stuff up there. ",
     liveUrl: "https://steady-begonia-a2480f.netlify.app/",
     repo: "https://github.com/csalsgiver007/learningJournal",
     designFile:
@@ -193,7 +193,7 @@ const learningNotes = [
     date: "2024-04--10",
     tags: ["css", "js", "responsive design", "flexbox", "css grid"],
     comment:
-      "I've been working on rewriting Rachels website, from sratch without using the template so I can make changes to it easier in the future. I'm employing flexbox and css grid to make it responsive and building it out using a mobile first approach The site has an intro, products, events, news, and contacts pages. These pages will eventually be home to dynamic data which will pull through server side rendering with Django and postgres database. I intend to use the Django inbuilt CMS so Rachel can update the site herself. I've so far included a litte JS event listeners for rendering and closing the sections",
+      "I've been working on rewriting Rachel's website, from scratch without using the template so I can make changes to it easier in the future. I'm employing flexbox and css grid to make it responsive and building it out using a mobile first approach The site has an intro, products, events, news, and contacts pages. These pages will eventually be home to dynamic data which will pull through server side rendering with Django and postgres database. I intend to use the Django inbuilt CMS so Rachel can update the site herself. I've so far included a little JS event listeners for rendering and closing the sections",
     liveUrl: "https://ephemeral-nougat-6f4a0a.netlify.app/",
     repo: "https://github.com/csalsgiver007/AAnaturtalsRewrite",
     designFile: "",
@@ -215,7 +215,89 @@ const learningNotes = [
     date: "2024-04-17",
     tags: ["django", "cloudflare r2"],
     comment:
-      "Ive been making good progress this week converting the html site to django for Rachels Website. The weeks I've been working on html, css, and js I have not touched python or django. It is taking me a littlebit to remeber some of the aspects of django, but I've nearly gotten the entire site built out now and we can use the admin panel to add updates to it. It still needs to be restyled for larger screens, but I figured making it mobile friendly is important since most people use their phone first nowadays. Ive not yet pushed it to github, because i forget to get the secret keys and stuff out of it first. I want to make sure it's good to go befor commiting it. Oh, something cool I did yesterday was hook it up to Cloudflare R2 for hosting media files",
+      "Ive been making good progress this week converting the html site to django for Rachel's Website. The weeks I've been working on html, css, and js I have not touched python or django. It is taking me a little bit to remember some of the aspects of django, but I've nearly gotten the entire site built out now and we can use the admin panel to add updates to it. It still needs to be restyled for larger screens, but I figured making it mobile friendly is important since most people use their phone first nowadays. Ive not yet pushed it to github, because i forget to get the secret keys and stuff out of it first. I want to make sure it's good to go before committing it. Oh, something cool I did yesterday was hook it up to Cloudflare R2 for hosting media files",
+    liveUrl: "",
+    repo: "",
+    designFile: "",
+    images: [],
+  },
+  {
+    uuid: "980f279f-ab84-40b9-80b8-1e2a610c4085",
+    date: "2024-04-22",
+    tags: ["heroku", "deployment", "python-dotenv", "Docker"],
+    comment:
+      "After building up Rachel's site and backend I started the deployment process on Heroku. Although a straightforward process in itself there are many aggravating and annoying things a ran across. I kept getting heroku errors, database errors, etc. I spent a lot of time reading logs, stackoverflow and documentation. Since I had to change the database, hide the environmental variables, etc now the local code doesn't work since I had to change all those thing for it to work in production. This a problem, because I'm going to be continuously tinkering on it. For instance I still need to build out media queries for larger screens. I read a bit about docker this weekend, tried out spinning up a docker image, but Docker seems to be a subject in itself. In the future, after I know a bit about docker I think it would be beneficial to build my development copy as a docker image with all the aspects of production already set on it, like database, media bucket api keys, etc. For this project I found out about python-dotenv which I installed in the requirements. It allows me to save the environmental variables in a file not tracked by github so I can use the same variables on local development as well as production. I think Docker is the way to go for this, but I want to get back to writing code and improving her site. Docker seems like it will take me on a big detour",
+    liveUrl: "https://a-a-naturals-a5177831409d.herokuapp.com/",
+    repo: "",
+    designFile: "",
+    images: [],
+  },
+  {
+    uuid: "a204dc1a-091a-42f5-946b-d6734e7e8c5b",
+    date: "2024-04-23",
+    tags: ["heroku", "ssl", "dns"],
+    comment:
+      "This morning I migrated the dns target for Rachel's site to point to the actual heroku app. She's using hover.com as the dns registration because that's what Etsy had when we opened her Etsy shop. Heroku does not provide an ip address for you to register in dns. They give you a host name that ends in herokudns.com. In order to register an A level record it has to point to an actual ip address. I mapped a CNAME record to www.allaroundnaturals.com and another one to the root domain. The SSL cert  wasn't working on the root domain earlier and I read something in heroku support, that ssl won't work if the root domain is mapped as a CNAME, it needs to be an ALIAS record. So I'm thinking about transferring the domain to something that heroku recommends, probably namescheap or cloudflare. However, in the meantime it seems to have started working. I don't know if it's picking up caching from my browsers from the www record but I'll test it some more. This evening I'm going to work on building a template and view for her individual blog posts. The index and models are already done.    ",
+    liveUrl: "www.allaroundnaturals.com",
+    repo: "",
+    designFile: "",
+    images: [],
+  },  {
+    uuid: "",
+    date: "2024-04-22",
+    tags: [""],
+    comment:
+      "",
+    liveUrl: "",
+    repo: "",
+    designFile: "",
+    images: [],
+  },  {
+    uuid: "",
+    date: "2024-04-22",
+    tags: [""],
+    comment:
+      "",
+    liveUrl: "",
+    repo: "",
+    designFile: "",
+    images: [],
+  },  {
+    uuid: "",
+    date: "2024-04-22",
+    tags: [""],
+    comment:
+      "",
+    liveUrl: "",
+    repo: "",
+    designFile: "",
+    images: [],
+  },  {
+    uuid: "",
+    date: "2024-04-22",
+    tags: [""],
+    comment:
+      "",
+    liveUrl: "",
+    repo: "",
+    designFile: "",
+    images: [],
+  },  {
+    uuid: "",
+    date: "2024-04-22",
+    tags: [""],
+    comment:
+      "",
+    liveUrl: "",
+    repo: "",
+    designFile: "",
+    images: [],
+  },  {
+    uuid: "",
+    date: "2024-04-22",
+    tags: [""],
+    comment:
+      "",
     liveUrl: "",
     repo: "",
     designFile: "",
