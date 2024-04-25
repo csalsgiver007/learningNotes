@@ -243,11 +243,10 @@ const learningNotes = [
     designFile: "",
     images: [],
   },  {
-    uuid: "",
-    date: "2024-04-22",
-    tags: [""],
-    comment:
-      "",
+    uuid: "82fe1db0-b0d5-4084-90da-d7f71fcb5f74",
+    date: "2024-04-24",
+    tags: ["react", "css"],
+    comment:"This evening I worked on rendering more details on the product cards for Rachel's site. I also began working on beginner React modules from Bob Ziroll on Scrimba",
     liveUrl: "",
     repo: "",
     designFile: "",
