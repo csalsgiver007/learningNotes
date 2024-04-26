@@ -252,11 +252,10 @@ const learningNotes = [
     designFile: "",
     images: [],
   },  {
-    uuid: "",
-    date: "2024-04-22",
-    tags: [""],
-    comment:
-      "",
+    uuid: "a447d5c5-1436-402d-a4da-ca8b89c2d963",
+    date: "2024-04-25",
+    tags: ["scrimba", "react"],
+    comment:"Finished up the first React module this morning and started the solo project this evening",
     liveUrl: "",
     repo: "",
     designFile: "",
