@@ -261,13 +261,12 @@ const learningNotes = [
     designFile: "",
     images: [],
   },  {
-    uuid: "",
-    date: "2024-04-22",
-    tags: [""],
-    comment:
-      "",
+    uuid: "72578141-5022-434e-b81d-19857fe6c7f5",
+    date: "2024-04-26",
+    tags: ["react", "scrimba", "bob ziroll"],
+    comment:"Finished the digital business card solo project from Scrimba's react module with Bob Ziroll",
     liveUrl: "",
-    repo: "",
+    repo: "https://scrimba.com/scrim/co7b841ea86212c591361ec7d",
     designFile: "",
     images: [],
   },  {
