@@ -270,11 +270,11 @@ const learningNotes = [
     designFile: "",
     images: [],
   },  {
-    uuid: "",
-    date: "2024-04-22",
+    uuid: "27000609-282b-4ca9-9dc5-fd83a31ee740",
+    date: "2024-04-29",
     tags: [""],
     comment:
-      "",
+      "Today I built the view for the product page, and linked it to the url. Tested with a just an image on the template",
     liveUrl: "",
     repo: "",
     designFile: "",
