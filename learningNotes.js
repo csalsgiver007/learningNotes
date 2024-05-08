@@ -332,10 +332,11 @@ const learningNotes = [
     images: [],
   },
   {
-    uuid: "",
-    date: "2024-05-01",
-    tags: [""],
-    comment: "",
+    uuid: "5d59df84-81b4-4d1e-865b-e6a4d0f5d012",
+    date: "2024-05-07",
+    tags: ["django", "aws s3"],
+    comment:
+      "This evening I worked out some bugs in the website, that I realized would crash the server because if some of my objects did not have an image the code was trying to render images that did not exist. I fixed it by throwing some django template if statemants in the code to only render if image. I also realized collectstatic does not seem to work when I push up new css. I had to manually collect static through the heroku server. I need to investigate more on why it did not collect the new static file from my github deployment, even though the log says it's running collect static. ",
     liveUrl: "",
     repo: "",
     designFile: "",
