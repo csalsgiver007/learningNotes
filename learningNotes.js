@@ -343,11 +343,12 @@ const learningNotes = [
     images: [],
   },
   {
-    uuid: "",
-    date: "2024-05-01",
-    tags: [""],
-    comment: "",
-    liveUrl: "",
+    uuid: "47938167-9096-457d-838b-4a9bc15e59b7",
+    date: "2024-05-15",
+    tags: ["aws", "s3", "cloudfront"],
+    comment:
+      "After moving static and media files to S3 I noticed that there began to be tons of requests to the S3 bucket. I have not been able to determine why there are so many requests but it ate up my free tier in less than a week. I read aboud cloudfront and decided to set up a distribution to cache the files. It seems to be working nicely. The files are now being servd from the distribution and the S3bucket is not accessible directly. While making upgrades to the site I realized that it is not ideal to have the static files being served through a distribution while I'm still working on the site. I moved static files back to being served by django white noise. Eventually when the site is only in maintanence mode I will move static files back to the distribution. Ialso want to enable presigned urls, but at this time I don't want to spend the time researching how to do this. I have moved on to building a product review and rating feature. I got the input from the form working  and writing to the database this evening. I've built the HTML template on the product pages and just need to render the dynamic content from the datbase to it",
+    liveUrl: "https://www.allaroundnaturals.com",
     repo: "",
     designFile: "",
     images: [],
