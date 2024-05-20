@@ -354,11 +354,12 @@ const learningNotes = [
     images: [],
   },
   {
-    uuid: "",
-    date: "2024-05-01",
-    tags: [""],
-    comment: "",
-    liveUrl: "",
+    uuid: "a408dd03-85f5-4333-b5ec-e5db04dbe1a3",
+    date: "2024-05-21",
+    tags: ["django"],
+    comment:
+      "This morning I worked on the product review and rating feature. The site is now rendering reviews and ratings from the database on the product template. I think an email notification for new reviews will be next. And we shall probably need a response mnodel to post a reply on new reviews.",
+    liveUrl: "https://www.allaroundnaturals.com",
     repo: "",
     designFile: "",
     images: [],
