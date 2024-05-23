@@ -365,10 +365,11 @@ const learningNotes = [
     images: [],
   },
   {
-    uuid: "",
-    date: "2024-05-01",
-    tags: [""],
-    comment: "",
+    uuid: "66f7368d-e2f5-4939-8041-11d5b07279e0",
+    date: "2024-05-24",
+    tags: ["react", "useState"],
+    comment:
+      "This morning I got back to my React studies. I had been spending some time working on Rachels site but now that I have it at a good stopping point I'm getting back to my studies of React with the Bob Ziroll course on Scrimba. It ahd been a few weeks since I had practiced React so I had to go over some stuff I had already completed. I'm working now with the useState hook",
     liveUrl: "",
     repo: "",
     designFile: "",
