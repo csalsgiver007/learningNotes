@@ -376,10 +376,11 @@ const learningNotes = [
     images: [],
   },
   {
-    uuid: "",
-    date: "2024-05-01",
-    tags: [""],
-    comment: "",
+    uuid: "6af7a1e1-bf25-45d5-9ff1-23e65e3f308a",
+    date: "2024-06-10",
+    tags: ["ultramarathon", "construction", "basement-remodel"],
+    comment:
+      "You may have noticed I have not been contributing to any projects lately. On May 18th I attempted my first 100 mile ultramarathon this year. I had felt like I did not put in enough training leading up to it this year. That may have been the case but I felt better than I thought I would. The weather was horrble that day. It rained all Friday night and the first ten hours or more of the race. I was battling trench foot and just slipping and sliding in mud and on wet rocks in the mountains. I made it 77 miles before deciding to quit. Looking back I regret the decision. So for two weeks, I did some light active recovery because my next 100 miler was scheduled ony two weeks away on June 1. This date is my anniversery and I spent it putting myself through agony again. This time Rachel was there as my crew and met me at several of the aid stations. In the first 32 miles I felt as strong as ever, but once the day got hotter and I hit some of the mountain trails I began to feel like shit. At mile 64 I was really dragging, when I came into that aid station I said I feel like shit and asked Rachel how I look. She replied that I look like shit as well. Things were not going well and I had a bad feeling of whether o not I could finish. Somehow about 4 or five miles later I begn feeling better. I actually came into the mile 75 aid station much faster than we expected. The hardest part of the course is between mile 75 and 84. Mike and Luke were allowed to accompany me during this section. I took this slow and tried not to wear myself down again on these climbs. After I left Mike and Luke, again I somehow found some new energy. I finished the course in 26 hours and 1minute which is actually faster than the first time I did this course and I definitley trained harder that year. This really made me happy that I was able to pull this one off, especially with Rachel being there with me on my anniversery. Since finishing this race I've been putting time into remodeling the basement room which was supposed to be my office, but I decided to build Rachel an apothecary for her business down there. I will eventaully move my desk into the spare bedroom and work from there. So far I have the walls framed up, electrical outlets roughed in and most of the sheetrock up. Tommorow I should be finished hanging sheetrock and will begin mudding it. The existing electrical work is a mess. It looks like spagehtti with all the loose cable run all over above the drop ceiling.",
     liveUrl: "",
     repo: "",
     designFile: "",
