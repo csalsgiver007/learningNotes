@@ -388,9 +388,10 @@ const learningNotes = [
   },
   {
     uuid: "",
-    date: "2024-05-01",
-    tags: [""],
-    comment: "",
+    date: "2024-06-13",
+    tags: ["react", "useState", "conditional rendering"],
+    comment:
+      "Over the last three days I've been back to working on Bob Ziroll's react course on Scrimba. I've been going back over the useState hook. I practiced exercises where state is being passed to child components and how to update the state from the child component back to the parent by passing callback functions to the child component. I'vealso been using the ternary operator and && to conditionally render components based on the state",
     liveUrl: "",
     repo: "",
     designFile: "",
