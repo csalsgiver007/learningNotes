@@ -387,7 +387,7 @@ const learningNotes = [
     images: [],
   },
   {
-    uuid: "",
+    uuid: "db50b8c5-1ff5-4bb5-9c27-10df78b86db4",
     date: "2024-06-13",
     tags: ["react", "useState", "conditional rendering"],
     comment:
@@ -398,10 +398,11 @@ const learningNotes = [
     images: [],
   },
   {
-    uuid: "",
-    date: "2024-05-01",
-    tags: [""],
-    comment: "",
+    uuid: "35d33d8d-0818-4039-ba1d-00d7741da7ec",
+    date: "2024-06-14",
+    tags: ["react", "forms", "useState"],
+    comment:
+      "This morning I continued learning react. I began working with react forms such as text inputs, radio buttons, and checkboxes. I also learned how to use the useState hook to update the state of the form",
     liveUrl: "",
     repo: "",
     designFile: "",
