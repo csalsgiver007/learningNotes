@@ -409,10 +409,11 @@ const learningNotes = [
     images: [],
   },
   {
-    uuid: "",
-    date: "2024-05-01",
-    tags: [""],
-    comment: "",
+    uuid: "a517eb11-a4cd-4c64-a3cc-5090b99eda4a",
+    date: "2024-06-19",
+    tags: ["react", "useEffect", "fetch"],
+    comment:
+      "This morning I wrapped up part three of Bob Ziroll's react course on Scrimba. I learned about the useEffect hook and how to fetch data from an api. I also learned how to use the useEffect hook to update the state of the component. Finishing up this section I feel like I have a basic understanding of beginner react concepts but I am still quite beginner. I need to practice these concepts more to get them to sink in. Thankfully it appears that part 4 of this course is mainly practice with a little bit of new material. I'm looking forward to getting into it",
     liveUrl: "",
     repo: "",
     designFile: "",
