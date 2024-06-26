@@ -8,7 +8,6 @@ to enrich my skills but to be part of a community to help and learn from others
 
 const learningNotes = [
   {
-    uuid: "9654a534-7d5d-4590-9ce7-ea088ede0d28",
     date: "2024-03-13",
     tags: [],
     comment:
@@ -19,7 +18,6 @@ const learningNotes = [
     images: [],
   },
   {
-    uuid: "e1853763-ab78-45fc-88dd-6422be0f14e4",
     date: "2024-03-14",
     tags: ["arrays", "objects", "js", " .join", ".map", "forEach", ".map"],
     comment:
@@ -31,7 +29,6 @@ const learningNotes = [
   },
 
   {
-    uuid: "561d9b54-e94f-41a5-a706-0e4c28356b93",
     date: "2024-03-15",
     tags: [
       "ternary",
@@ -49,7 +46,6 @@ const learningNotes = [
     images: [],
   },
   {
-    uuid: "22c05c9a-3f71-40bd-bbad-5bd3d6c0580a",
     date: "2024-03-18",
     tags: ["constructor", "this keyword"],
     comment:
@@ -60,7 +56,6 @@ const learningNotes = [
     images: [],
   },
   {
-    uuid: "cac6a992-9589-4956-93f7-4c4363b1bc1e",
     date: "2024-03-19",
     tags: [".map", "data-sets", ".join", ""],
     comment:
@@ -72,7 +67,6 @@ const learningNotes = [
     images: [],
   },
   {
-    uuid: "8b8376d2-92db-4e4e-ae4b-0546111e09c5",
     date: "2024-03-20",
     tags: ["data set attributes", "css", "copy array"],
     comment:
@@ -84,7 +78,6 @@ const learningNotes = [
     images: [],
   },
   {
-    uuid: "377da39a-7e53-4abd-889b-2bfc0be9e6bf",
     date: "2024-03-21",
     tags: ["css", "flexbox", "flex-grow"],
     comment:
@@ -96,7 +89,6 @@ const learningNotes = [
     images: [],
   },
   {
-    uuid: "f694ce3b-adc9-4d84-8cb1-87516d4e4d44",
     date: "2024-03-22",
     tags: ["cart", "JavaScript", "CSS"],
     comment:
@@ -112,7 +104,6 @@ const learningNotes = [
     ],
   },
   {
-    uuid: "f4919448-749a-431e-8506-e82eafae69a8",
     date: "2024-03-23",
     tags: ["responsive design", "media queries"],
     comment:
@@ -123,7 +114,6 @@ const learningNotes = [
     images: [],
   },
   {
-    uuid: "ed4b9c00-d493-42d7-b1b6-b3b5ab0767d1",
     date: "2024-03-25",
     tags: ["flex-wrap", "flex-grow", "flex-basis"],
     comment: "Practiced formatting an exercise using flexbox properties",
@@ -133,7 +123,6 @@ const learningNotes = [
     images: [],
   },
   {
-    uuid: "3ebfa1a6-5e49-410a-9c2b-524a01b3a20a",
     date: "2024-03-26",
     tags: [flexbox],
     comment: "This morning I worked on more practice of css flexbox",
@@ -143,7 +132,6 @@ const learningNotes = [
     images: [],
   },
   {
-    uuid: "8bc9c709-3531-4a95-8cc4-02fc347e6f03",
     date: "2024-03-27",
     tags: ["css-grid"],
     comment:
@@ -154,7 +142,6 @@ const learningNotes = [
     images: [],
   },
   {
-    uuid: "94aa866f-4c80-4716-bf5a-76cb5be8e5e1",
     date: "2024-03-30",
     tags: ["css grid", "responsive design"],
     comment:
@@ -166,7 +153,6 @@ const learningNotes = [
     images: [],
   },
   {
-    uuid: "6bcae0ad-b6bd-4d6d-8fde-82f24087bf5c",
     date: "2024-04-01",
     tags: ["scrimba", "mobile-first", "css-grid", "flexbox"],
     comment:
@@ -178,7 +164,6 @@ const learningNotes = [
     images: [],
   },
   {
-    uuid: "945563ad-8f6c-4b87-bc63-51110c51f5e7",
     date: "2024-04-03",
     tags: ["api", "fetch"],
     comment:
@@ -189,7 +174,6 @@ const learningNotes = [
     images: [],
   },
   {
-    uuid: "db652ac3-5128-424a-8602-c8ed898c81b4",
     date: "2024-04--10",
     tags: ["css", "js", "responsive design", "flexbox", "css grid"],
     comment:
@@ -200,7 +184,6 @@ const learningNotes = [
     images: [],
   },
   {
-    uuid: "1411b1a5-e76c-48c8-868f-7dbe2ad32a41",
     date: "2024-04-12",
     tags: ["api", "fetch", "geolocation API"],
     comment:
@@ -211,7 +194,6 @@ const learningNotes = [
     images: [],
   },
   {
-    uuid: "e1106632-08d0-4dc5-95d4-030b843767a3",
     date: "2024-04-17",
     tags: ["django", "cloudflare r2"],
     comment:
@@ -222,7 +204,6 @@ const learningNotes = [
     images: [],
   },
   {
-    uuid: "980f279f-ab84-40b9-80b8-1e2a610c4085",
     date: "2024-04-22",
     tags: ["heroku", "deployment", "python-dotenv", "Docker"],
     comment:
@@ -233,7 +214,6 @@ const learningNotes = [
     images: [],
   },
   {
-    uuid: "a204dc1a-091a-42f5-946b-d6734e7e8c5b",
     date: "2024-04-23",
     tags: ["heroku", "ssl", "dns"],
     comment:
@@ -244,7 +224,6 @@ const learningNotes = [
     images: [],
   },
   {
-    uuid: "82fe1db0-b0d5-4084-90da-d7f71fcb5f74",
     date: "2024-04-24",
     tags: ["react", "css"],
     comment:
@@ -255,7 +234,6 @@ const learningNotes = [
     images: [],
   },
   {
-    uuid: "a447d5c5-1436-402d-a4da-ca8b89c2d963",
     date: "2024-04-25",
     tags: ["scrimba", "react"],
     comment:
@@ -266,7 +244,6 @@ const learningNotes = [
     images: [],
   },
   {
-    uuid: "72578141-5022-434e-b81d-19857fe6c7f5",
     date: "2024-04-26",
     tags: ["react", "scrimba", "bob ziroll"],
     comment:
@@ -277,7 +254,6 @@ const learningNotes = [
     images: [],
   },
   {
-    uuid: "27000609-282b-4ca9-9dc5-fd83a31ee740",
     date: "2024-04-29",
     tags: [""],
     comment:
@@ -288,7 +264,6 @@ const learningNotes = [
     images: [],
   },
   {
-    uuid: "b7242ba0-b992-44dc-a9e2-b96c0bfb388c",
     date: "2024-04-30",
     tags: ["django", "dynammic urls"],
     comment:
@@ -299,7 +274,6 @@ const learningNotes = [
     images: [],
   },
   {
-    uuid: "30d2a716-aefe-4186-9626-f2f13546d45c",
     date: "2024-05-01",
     tags: ["dajango", "dynamic content"],
     comment:
@@ -310,7 +284,6 @@ const learningNotes = [
     images: [],
   },
   {
-    uuid: "5b5793fd-08de-41c8-9a1e-08b8699b5f18",
     date: "2024-05-02",
     tags: ["django"],
     comment:
@@ -321,7 +294,6 @@ const learningNotes = [
     images: [],
   },
   {
-    uuid: "c59ea39c-3177-453d-90c2-9b9a423828dd",
     date: "2024-05-06",
     tags: ["CKEditor5", "Django", "AWS S3"],
     comment:
@@ -332,7 +304,6 @@ const learningNotes = [
     images: [],
   },
   {
-    uuid: "5d59df84-81b4-4d1e-865b-e6a4d0f5d012",
     date: "2024-05-07",
     tags: ["django", "aws s3"],
     comment:
@@ -343,7 +314,6 @@ const learningNotes = [
     images: [],
   },
   {
-    uuid: "47938167-9096-457d-838b-4a9bc15e59b7",
     date: "2024-05-15",
     tags: ["aws", "s3", "cloudfront"],
     comment:
@@ -354,7 +324,6 @@ const learningNotes = [
     images: [],
   },
   {
-    uuid: "a408dd03-85f5-4333-b5ec-e5db04dbe1a3",
     date: "2024-05-21",
     tags: ["django"],
     comment:
@@ -365,7 +334,6 @@ const learningNotes = [
     images: [],
   },
   {
-    uuid: "66f7368d-e2f5-4939-8041-11d5b07279e0",
     date: "2024-05-24",
     tags: ["react", "useState"],
     comment:
@@ -376,7 +344,6 @@ const learningNotes = [
     images: [],
   },
   {
-    uuid: "6af7a1e1-bf25-45d5-9ff1-23e65e3f308a",
     date: "2024-06-10",
     tags: ["ultramarathon", "construction", "basement-remodel"],
     comment:
@@ -387,7 +354,6 @@ const learningNotes = [
     images: [],
   },
   {
-    uuid: "db50b8c5-1ff5-4bb5-9c27-10df78b86db4",
     date: "2024-06-13",
     tags: ["react", "useState", "conditional rendering"],
     comment:
@@ -398,7 +364,6 @@ const learningNotes = [
     images: [],
   },
   {
-    uuid: "35d33d8d-0818-4039-ba1d-00d7741da7ec",
     date: "2024-06-14",
     tags: ["react", "forms", "useState"],
     comment:
@@ -409,7 +374,6 @@ const learningNotes = [
     images: [],
   },
   {
-    uuid: "a517eb11-a4cd-4c64-a3cc-5090b99eda4a",
     date: "2024-06-19",
     tags: ["react", "useEffect", "fetch"],
     comment:
@@ -420,10 +384,9 @@ const learningNotes = [
     images: [],
   },
   {
-    uuid: "",
-    date: "2024-05-01",
-    tags: [""],
-    comment: "",
+    date: "2024-06-26",
+    tags: ["firebase", react],
+    comment: "Today I worked on the react markdown notes app on Scrimba. Refactored the code to use firebase instead of local storage",
     liveUrl: "",
     repo: "",
     designFile: "",
