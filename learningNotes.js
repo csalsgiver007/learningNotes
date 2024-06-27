@@ -394,9 +394,9 @@ const learningNotes = [
   },
   {
     uuid: "",
-    date: "2024-05-01",
-    tags: [""],
-    comment: "",
+    date: "2024-06-27",
+    tags: ["react", "scrima", "udemy"],
+    comment: "This morning I started working on a new course, React Complete 2024 from Max Schwarzmüller. The Ziroll class is fantastic, but since I have been busy with outside activities I feel like I need reinforcement. Going back through Ziroll course is helpful but different material helps keep it more interesting and I might be able pick up additional tips.",
     liveUrl: "",
     repo: "",
     designFile: "",
